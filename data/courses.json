@@ -62,7 +62,7 @@
       "learn3": "لقد تم انشاء هذه الدوره وهدفها هو اعداد مطورين تطبيقات واعدادهم لسوق العمل وتحقيقي اهداف المستقبليه",
       "learn4": "فيديو: 2 ساعة إجمالية",
       "learn5": "تطبيقات الموبايل باستخدام ايطار العمل فلاتر",
-      "learn6": "Welcome to the best Flutter Course"
+      "learn6": "Welcome to the best Flutter Course."
     },
     {
       "_id": 5,
@@ -73,12 +73,12 @@
       "picture": "https://i.ibb.co/c6Ls9d0/dart.gif",
       "name": "Dart",
       "about": "Dart is a programming language designed for client development, such as for the web and mobile apps.",
-      "learn1": "Learn Flutter and Dart from the ground up, step-by-step",
+      "learn1": "Learn Flutter and Dart from the ground up, step-by-step.",
       "learn2": "Use features like Google Maps, the device camera, authentication and much more!",
-      "learn3": "Learn all the basics without stopping after them: Dive deeply into Flutter & Dart and become an advanced developer",
-      "learn4": "Build engaging native mobile apps for both Android and iOS",
-      "learn5": "Learn how to upload images and how to send manual and automated push notifications",
-      "learn6": "Welcome to the best Dart Course"
+      "learn3": "Learn all the basics without stopping after them: Dive deeply into Flutter & Dart and become an advanced developer.",
+      "learn4": "Build engaging native mobile apps for both Android and iOS.",
+      "learn5": "Learn how to upload images and how to send manual and automated push notifications.",
+      "learn6": "Welcome to the best Dart Course."
     },
     {
       "_id": 6,
