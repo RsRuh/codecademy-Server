@@ -24,5 +24,5 @@ app.get('/courses/:id', (req, res)=>{
 })
 
 app.listen(port, ()=>{
-    console.log('Codecademy is running');
+    console.log('Codecademy running');
 })
